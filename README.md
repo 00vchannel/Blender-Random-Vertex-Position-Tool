@@ -1,4 +1,4 @@
-## Blender Random Vertex Position Tool
+## Blender Random Vertex Axis Position Tool
 
 This is a simple Blender 4.1+ add-on that helps you randomly adjust vertex positions.
 
