@@ -2,7 +2,7 @@
 
 This is a simple Blender 4.1+ add-on that helps you randomly adjust vertex positions.
 
-![Image](https://github.com/user-attachments/assets/a873d5f2-6867-4275-af84-1b6fb7491504)
+![Image](https://github.com/user-attachments/assets/0b78261a-5e7c-482b-aba7-aa26c056cfee)
 
 ### Features
 
