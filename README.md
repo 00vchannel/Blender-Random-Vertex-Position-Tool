@@ -2,6 +2,8 @@
 
 This is a simple Blender 4.1+ add-on that helps you randomly adjust vertex positions.
 
+![Image](https://github.com/user-attachments/assets/fa7f652c-b0f2-4df4-a325-c2d3c4f0beb3)
+
 ### Features
 
 - Control random strength in X, Y, Z directions with sliders
